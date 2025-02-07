@@ -1,9 +1,9 @@
-ID,Name,interest,specialty,client_type
-C001,Santosh Pradhan,Ophthalmology,Cataract,Clinic
-C002,John Doe,Ophthalmology,Premium Cataract,Clinic
-C003,Mark Anthony,Ophthalmology,Cataract,Hospital
-C004,Hrithik Sharma,Ophthalmology,Premium Cataract,Hospital
-C005,Johnson Reder,Ophthalmology,Cataract,Clinic
-C006,Pascal Kumar,Ophthalmology,Premium Cataract,Clinic
-C007,Simon Sinek,Ophthalmology,Cataract,Hospital
-C008,Sarvesh Simpleson,Ophthalmology,Premium Cataract,Hospital
+ID,Name,interest,specialty,client_type,email,concat
+C001,Santosh Pradhan,Ophthalmology,Cataract,Clinic,s@example.com,"{'interest':'Ophthalmology','speciality':'Cataract','client_type':'Clinic'}"
+C002,John Doe,Ophthalmology,Premium Cataract,Clinic,j@example.com,"{'interest':'Ophthalmology','speciality':'Premium Cataract','client_type':'Clinic'}"
+C003,Mark Anthony,Ophthalmology,Cataract,Hospital,m@example.com,"{'interest':'Ophthalmology','speciality':'Cataract','client_type':'Hospital'}"
+C004,Hrithik Sharma,Ophthalmology,Premium Cataract,Hospital,h@example.com,"{'interest':'Ophthalmology','speciality':'Premium Cataract','client_type':'Hospital'}"
+C005,Johnson Reder,Ophthalmology,Cataract,Clinic,jr@example.com,"{'interest':'Ophthalmology','speciality':'Cataract','client_type':'Clinic'}"
+C006,Pascal Kumar,Ophthalmology,Premium Cataract,Clinic,p@example.com,"{'interest':'Ophthalmology','speciality':'Premium Cataract','client_type':'Clinic'}"
+C007,Simon Sinek,Ophthalmology,Cataract,Hospital,sm@example.com,"{'interest':'Ophthalmology','speciality':'Cataract','client_type':'Hospital'}"
+C008,Sarvesh Simpleson,Ophthalmology,Premium Cataract,Hospital,ss@example.com,"{'interest':'Ophthalmology','speciality':'Premium Cataract','client_type':'Hospital'}"
